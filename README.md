@@ -7,18 +7,18 @@
 2022年3月〜現在
 
 #### ●使用技術
-Java, Spring boot,Linux, Docker, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS
+Java, Spring boot, Typescript, React.js, Next.js, Linux, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS
 
 #### ●開発手法
 アジャイル（スクラム）
 
 #### ●担当業務
-上記の開発案件のバックエンドエンジニアとしてAPI開発を行なっています。  
+上記の開発案件のバックエンドエンジニアを主としてWebアプリケーションの開発を行なっています。  
 工程としては、要件定義〜UTを担当し、SESさん2名の管理も行っています。
 
 #### ●求人レコメンドアルゴリズムの差し替え
-求人レコメンドのアルゴリズムを差し替える案件で、技術選定やAPIの設計、DynamoDBのテーブル設計を行いました。
-色々な部署（AI室・DBRE・企画T）とコミュニケーションを取りながら、自らが主体となり開発を行いました。
+求人レコメンドのアルゴリズムを差し替える案件で、技術選定やAPIの設計、DynamoDBのテーブル設計・実装を行いました。
+色々な関連組織（AI室・DBRE・企画T）とコミュニケーションを取りながら、開発を行いました。
 
 ## 4.商品販売アプリ
 #### ●プロジェクト概要
