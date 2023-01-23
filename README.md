@@ -7,7 +7,7 @@
 2022年3月〜現在
 
 #### ●使用技術
-Java, Spring boot, Typescript, React.js, Next.js, Linux, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS
+Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS, Terraform
 
 #### ●開発手法
 アジャイル（スクラム）
@@ -16,9 +16,13 @@ Java, Spring boot, Typescript, React.js, Next.js, Linux, MySQL, DynamoDB, Redis,
 上記の開発案件のバックエンドエンジニアを主としてWebアプリケーションの開発を行なっています。  
 工程としては、要件定義〜UTを担当し、SESさん2名の管理も行っています。
 
+#### ●LINE連携機能
+自社のWebアプリケーションとLINEアプリケーションを連携させる機能の開発において、テックリードとして、アーキテクチャ設計 ~ 実装までを担当しました。
+Terraformを用いてAWSインフラを構築し、バックエンドのAPIにはLambda(Node.js)を使用し開発を行いました。
+
 #### ●求人レコメンドアルゴリズムの差し替え
 求人レコメンドのアルゴリズムを差し替える案件で、技術選定やAPIの設計、DynamoDBのテーブル設計・実装を行いました。
-色々な関連組織（AI室・DBRE・企画T）とコミュニケーションを取りながら、開発を行いました。
+色々な関連組織（AI室・DBRE・企画T）とのコミュニケーションを主導し、調整・合意を得ながら、開発を行いました。
 
 ## 4.商品販売アプリ
 #### ●プロジェクト概要
