@@ -6,10 +6,6 @@
 
 ## 株式会社ビズリーチ
 
-### 概要
-
-会員の転職を支援するマッチングプラットフォームの Web アプリケーションの開発
-
 ### 期間
 
 2022 年 3 月〜現在
@@ -24,13 +20,40 @@ Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoD
 
 ### 担当業務
 
-リードバックエンドエンジニアとして、上記 Web アプリケーションの開発・運用・保守を行なっています。
+リードバックエンドエンジニアとして、会員の転職を支援するマッチングプラットフォームの Web アプリケーションの開発・運用・保守を行なっています。
 
 ### 主な参画プロジェクト
 
 - [LINE 連携機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/LINE-Account-Linkage.md)
 - [プロモーションメールのワンクリック購読解除機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/One-Click-Unsubscribe.md)
 - [レジュメ自動生成機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/Resume-Auto-Generation.md)
+
+※プロジェクトの詳細は下記のリンクをご参照ください。
+
+## 株式会社コアコンセプト･テクノロジー
+
+### 期間
+
+2021 年 1 月〜2022 年 2 月
+
+### 使用技術
+
+Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Drone
+
+### 開発手法
+
+アジャイル（スクラム）
+
+### 担当業務
+
+業務委託のエンジニアのリーダーとして、開発業務をしながら、要員の調達やマネジメントを行っていました。
+
+### 主な参画プロジェクト
+
+- [ギフト販売アプリ開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/Core-Concept-Technologies/Gift-Sales-Application.md)
+- [ラジオ配信アプリ開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/Core-Concept-Technologies/Radio-Broadcasting.md)
+
+※プロジェクトの詳細は下記のリンクをご参照ください。
 
 ## 商品販売アプリ
 
@@ -44,7 +67,7 @@ Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoD
 
 #### ● 使用技術
 
-Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Drone
+Kotlin, Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Drone
 
 #### ● 開発手法
 
