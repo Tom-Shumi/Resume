@@ -26,6 +26,7 @@ Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoD
 ### ● 参画プロジェクト
 
 - [LINE 連携機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/LINE-Account-Linkage.md)
+- [プロモーションメールのワンクリック購読解除機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/One-Click-Unsubscribe.md)
 
 #### ● 求人レコメンドアルゴリズムの差し替え
 
