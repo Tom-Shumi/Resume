@@ -1,38 +1,36 @@
+# これまでやってきたことのサマリ
+
+- WIP
+
 # 職務経歴
 
-## 転職支援サービス
+## 株式会社ビズリーチ
 
-### ● 概要
+### 概要
 
-会員の転職を支援するマッチングプラットフォームの Web アプリの開発
+会員の転職を支援するマッチングプラットフォームの Web アプリケーションの開発
 
-### ● 期間
+### 期間
 
 2022 年 3 月〜現在
 
-### ● 使用技術
+### 使用技術
 
 Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS, Terraform
 
-### ● 開発手法
+### 開発手法
 
 アジャイル（スクラム）
 
-### ● 担当業務
+### 担当業務
 
-上記の開発案件のバックエンドエンジニアを主として Web アプリケーションの開発を行なっています。  
-工程としては、要件定義〜UT を担当し、SES さん 2 名の管理も行っています。
+リードバックエンドエンジニアとして、上記 Web アプリケーションの開発・運用・保守を行なっています。
 
-### ● 参画プロジェクト
+### 主な参画プロジェクト
 
 - [LINE 連携機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/LINE-Account-Linkage.md)
 - [プロモーションメールのワンクリック購読解除機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/One-Click-Unsubscribe.md)
 - [レジュメ自動生成機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/Resume-Auto-Generation.md)
-
-#### ● 求人レコメンドアルゴリズムの差し替え
-
-求人レコメンドのアルゴリズムを差し替える案件で、技術選定や API の設計、DynamoDB のテーブル設計・実装を行いました。
-色々な関連組織（AI 室・DBRE・企画 T）とのコミュニケーションを主導し、調整・合意を得ながら、開発を行いました。
 
 ## 商品販売アプリ
 
