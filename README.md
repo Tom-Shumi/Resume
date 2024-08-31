@@ -70,13 +70,22 @@ Java, Spring boot, Struts, Thymeleaf, JSP, Bootstrap, Javascript, CSS, Oracle, S
 
 ## 副業
 
-副業でこれまで 2 社のプロダクト開発に携わってきました。  
-下記で簡単にまとめているのでご参照ください。
+副業でこれまで 2 社のプロダクト開発に携わってきました。
 
-- [副業まとめ](https://github.com/Tom-Shumi/Resume/blob/main/Side-Job.md)
+### 使用技術
+
+Python, Django, Go, echo, TypeScript, Vue.js, Nuxt.js, Cloudflare
+
+### 簡単なサマリ
+
+- [副業サマリ](https://github.com/Tom-Shumi/Resume/blob/main/Side-Job.md)
 
 ## 個人開発
 
-下記で簡単にまとめているのでご参照ください。
+### 使用技術
 
-- [個人開発まとめ](https://github.com/Tom-Shumi/Resume/blob/main/Personal-Development.md)
+TypeScript, AWS Lambda, Node.js, Python, Selenium
+
+### 簡単なサマリ
+
+- [個人開発サマリ](https://github.com/Tom-Shumi/Resume/blob/main/Personal-Development.md)
