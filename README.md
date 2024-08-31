@@ -14,10 +14,6 @@
 
 Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoDB, Redis, Elasticsearch, Docker, Jenkins, AWS, Terraform
 
-### 開発手法
-
-アジャイル（スクラム）
-
 ### 担当業務
 
 リードバックエンドエンジニアとして、会員の転職を支援するマッチングプラットフォームの Web アプリケーションの開発・運用・保守を行なっています。
@@ -40,10 +36,6 @@ Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoD
 
 Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Drone
 
-### 開発手法
-
-アジャイル（スクラム）
-
 ### 担当業務
 
 業務委託のエンジニアのリーダーとして、開発業務をしながら、要員の調達やマネジメントを行っていました。
@@ -64,10 +56,6 @@ Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Dro
 ### 使用技術
 
 Java, Spring boot, Struts, Thymeleaf, JSP, Bootstrap, Javascript, CSS, Oracle, SQLServer, WindowsServer, Linux
-
-### 開発手法
-
-ウォーターフォール
 
 ### 担当業務
 
