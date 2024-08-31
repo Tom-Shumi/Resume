@@ -74,3 +74,9 @@ Java, Spring boot, Struts, Thymeleaf, JSP, Bootstrap, Javascript, CSS, Oracle, S
 下記で簡単にまとめているのでご参照ください。
 
 - [副業まとめ](https://github.com/Tom-Shumi/Resume/blob/main/Side-Job.md)
+
+## 個人開発
+
+下記で簡単にまとめているのでご参照ください。
+
+- [個人開発まとめ](https://github.com/Tom-Shumi/Resume/blob/main/Personal-Development.md)
