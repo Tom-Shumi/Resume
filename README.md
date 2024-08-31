@@ -2,7 +2,7 @@
 
 - WIP
 
-# 職務経歴
+# これまでやってきたこと
 
 ## 株式会社ビズリーチ
 
@@ -89,3 +89,12 @@ TypeScript, AWS Lambda, Node.js, Python, Selenium
 ### 簡単なサマリ
 
 - [個人開発サマリ](https://github.com/Tom-Shumi/Resume/blob/main/Personal-Development.md)
+
+# 保有資格
+
+- 基本情報技術者 [2015 年 11 月合格]
+- Java Programmer Gold SE8 [2017 年 7 月合格]
+- 応用情報技術者 [2018 年 6 月合格]
+- 情報処理安全確保支援士(セキュリティスペシャリスト) [2018 年 12 月合格]
+- データベーススペシャリスト [2019 年 6 月合格]
+- ネットワークスペシャリスト [2019 年 12 月合格]
