@@ -1,6 +1,26 @@
 # これまでやってきたことのサマリ
 
-- WIP
+## Web アプリケーション開発
+
+- バックエンド・フロントエンドともに幅広くやってきました。
+- ただバックエンドの方が好きです。
+  - 0 -> 1 でできる
+    - Java(Kotlin)/Spring Boot
+  - 1 -> 10 でできる
+    - Go/echo
+    - Python/Django
+    - Typescript/Next.js, Nuxt.js
+
+## プロジェクトマネジメント
+
+- 半年 ~ 1 年くらいのプロジェクトにて、チームメンバー最大 6 名のリードをやってきた経験があります。
+  - 進捗管理・課題管理・スコープ調整・顧客折衝
+- 要件定義から運用まで、Web アプリケーションの開発ライフサイクル全ての経験があります。
+
+## ピープルマネジメント
+
+- チームにジョインしてきた新人のメンターの経験があります。
+- 業務委託エンジニアの調達（面談）して開発チームの立ち上げ・グロースの経験があります。
 
 # これまでやってきたこと
 
@@ -89,6 +109,12 @@ TypeScript, AWS Lambda, Node.js, Python, Selenium
 ### 簡単なサマリ
 
 - [個人開発サマリ](https://github.com/Tom-Shumi/Resume/blob/main/Personal-Development.md)
+
+# アウトプット
+
+- [GitHub アカウント](https://github.com/Tom-Shumi)
+- [Qiita アカウント](https://qiita.com/Tom-Shumi)
+- [note アカウント](https://note.com/tom_shumi/)
 
 # 保有資格
 
