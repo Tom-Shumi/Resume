@@ -55,6 +55,31 @@ Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Dro
 
 ※プロジェクトの詳細は下記のリンクをご参照ください。
 
+## 株式会社ライターム
+
+### 期間
+
+2015 年 4 月 ~ 2020 年 12 月
+
+### 使用技術
+
+Java, Spring boot, Struts, Thymeleaf, JSP, Bootstrap, Javascript, CSS, Oracle, SQLServer, WindowsServer, Linux
+
+### 開発手法
+
+ウォーターフォール
+
+### 担当業務
+
+新卒でエンジニア(運用保守担当)としてジョインした後に、業務開発チームのリーダーとして、主に上流工程やプロジェクトの管理を担当しました。
+
+### 主な参画プロジェクト
+
+- [遺伝子情報管理システム開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/RightArm/Genetic-Information-Management-System.md)
+- [健康管理システム開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/RightArm/Health-Management-System.md)
+
+※プロジェクトの詳細は下記のリンクをご参照ください。
+
 ## 遺伝子情報管理システム
 
 #### ● プロジェクト概要
