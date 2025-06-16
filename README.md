@@ -4,18 +4,18 @@
 
 - バックエンド・フロントエンドともに幅広くやってきました。
 - ただバックエンドの方が好きです。
-  - 0 -> 1 でできる
+  - 0 -> 1 ができる
     - Java(Kotlin)/Spring Boot
-  - 1 -> 10 でできる
+  - 1 -> 10 ができる
     - Go/echo
     - Python/Django
     - Typescript/Next.js, Nuxt.js
 
 ## プロジェクトマネジメント
 
-- 半年 ~ 1 年くらいのプロジェクトにて、チームメンバー最大 6 名のリードをやってきた経験があります。
+- 約半年 ~ 1 年の期間のプロジェクトにて、チームメンバー最大 6 名のリードをやってきた経験があります。
   - 進捗管理・課題管理・スコープ調整・顧客折衝
-- 要件定義から運用まで、Web アプリケーションの開発ライフサイクル全ての経験があります。
+- 要件定義から運用保守まで、Web アプリケーションの開発ライフサイクル全ての経験があります。
 
 ## ピープルマネジメント
 
@@ -58,7 +58,7 @@ Java, Spring boot, Perl, Linux, Docker, MySQL, Redis, Elasticsearch, Docker, Dro
 
 ### 担当業務
 
-業務委託のエンジニアのリーダーとして、開発業務をしながら、要員の調達やマネジメントを行っていました。
+業務委託で参画したプロジェクトのリーダーとして、開発業務をしながら、要員の調達やマネジメントを行っていました。
 
 ### 主な参画プロジェクト
 
@@ -90,11 +90,11 @@ Java, Spring boot, Struts, Thymeleaf, JSP, Bootstrap, Javascript, CSS, Oracle, S
 
 ## 副業
 
-副業でこれまで 2 社のプロダクト開発に携わってきました。
+副業でこれまで 3 社のプロダクト開発に携わってきました。
 
 ### 使用技術
 
-Python, Django, Go, echo, TypeScript, Vue.js, Nuxt.js, Cloudflare
+Python, Django, Go, echo, Kotlin(GraphQL), TypeScript, Vue.js, Nuxt.js, Cloudflare
 
 ### 簡単なサマリ
 
