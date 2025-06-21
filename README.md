@@ -2,7 +2,7 @@
 
 ## Web アプリケーション開発
 
-- バックエンド・フロントエンドともに幅広くやってきました。
+- クラウドインフラ環境(AWS)にてバックエンド・フロントエンドともに幅広く開発をやってきました。
 - ただバックエンドの方が好きです。
   - 0 -> 1 ができる
     - Java(Kotlin)/Spring Boot
@@ -15,7 +15,7 @@
 
 - 約半年 ~ 1 年の期間のプロジェクトにて、チームメンバー最大 6 名のリードをやってきた経験があります。
   - 進捗管理・課題管理・スコープ調整・顧客折衝
-- 要件定義から運用保守まで、Web アプリケーションの開発ライフサイクル全ての経験があります。
+- 要件定義から運用保守まで、Web アプリケーションの開発サイクル全ての経験があります。
 
 ## ピープルマネジメント
 
@@ -40,6 +40,7 @@ Java, Spring boot, Typescript, Node.js, React.js, Next.js, Linux, MySQL, DynamoD
 
 ### 主な参画プロジェクト
 
+- [大量の未返信のスカウト削除プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/Delete-Mass-Scout.md)
 - [レジュメ自動生成機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/Resume-Auto-Generation.md)
 - [プロモーションメールのワンクリック購読解除機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/One-Click-Unsubscribe.md)
 - [LINE 連携機能開発プロジェクト](https://github.com/Tom-Shumi/Resume/blob/main/BizReach/LINE-Account-Linkage.md)
